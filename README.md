@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @virajrg108
+- 🌱 Java Spring Boot developer
+- 💻 Experience in React and Angular
 - 👀 I’m interested in web development, microservices, devops, cloud.
-- 🌱 I’m currently learning spring boot
 - 📫 How to reach me : https://www.linkedin.com/in/viraj-gawde/
